@@ -14173,8 +14173,6 @@ MonoBehaviour:
   velocity: 3.5
   waitingTime: 5
   attackRange: 2
-  timeToAttack: 2
-  timer: 0
 --- !u!43 &2013972130
 Mesh:
   m_ObjectHideFlags: 0
